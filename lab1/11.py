@@ -1,0 +1,6 @@
+x=int(1)
+y=float(3)
+z=str("s1")
+print(x)
+print(y)
+print(z)
