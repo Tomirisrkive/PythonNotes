@@ -2,7 +2,7 @@
 1. Write a Python program with builtin function to multiply all the numbers in a list
 """
 
-from functools import reduce
+from functools import reduce  
 
 def multiplying(n):
     return reduce(lambda x, y: x*y, n)
