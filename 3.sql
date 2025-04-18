@@ -10,7 +10,7 @@ INSERT INTO phonebook1 (username, phone_number)
 VALUES
   ('Tomiris', '123456789'),
   ('John Doe', '987654321'),
-  ('Alice Smith', '555666777');
+  ('Alice Smith', '5556667788');
 
 -- 3. Функция для поиска по шаблону
 CREATE OR REPLACE FUNCTION search_records(pattern TEXT)
